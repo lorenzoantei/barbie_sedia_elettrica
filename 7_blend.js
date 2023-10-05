@@ -1,0 +1,1 @@
+// https://hydra.ojack.xyz/api/#functions/diff/0
